@@ -1,2 +1,2 @@
 # Java
-Java Work
+Java basic calculator by Jarryd Matthews
